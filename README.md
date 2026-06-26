@@ -1,21 +1,19 @@
-# PrimeFoldTools
+# Collin Nerdahl
 
-**Decision Intelligence Infrastructure for Traders**
+**I build AI systems you can trust.**
 
-Mechanical constraint systems, AI trading prompts, and PineScript tools — built to remove discretion and enforce process. Everything ships from [primefold.tools](https://primefold.tools).
+Quality gates, self-auditing agents, and composable tooling for AI-native work. I came up in manufacturing, so I run AI like a production line: I turn every mistake into a check the system can't skip, and "done" has to show its receipt.
 
----
+I run systematic, validation-first trading systems on the same principle.
 
-### Repos
+The throughline: the machine doesn't get the benefit of the doubt. It proves it, or it doesn't ship.
 
-| Repo | Description |
-|------|-------------|
-| [**primefold-skills-public**](https://github.com/PrimeFoldTools/primefold-skills-public) | Open-source Claude skills for decision-making, analysis, and content strategy |
-| [**primefold-os-docs**](https://github.com/PrimeFoldTools/primefold-os-docs) | Core operating system documentation for PrimeFold.Tools infrastructure |
-| [**pinescript-examples**](https://github.com/PrimeFoldTools/pinescript-examples) | TradingView PineScript v5 educational examples and patterns |
+## Open work
 
-> **Private repos available** — Additional private repositories cover structured prompts, custom GPT configurations, and production PineScript systems. Reach out via [primefold.tools](https://primefold.tools) for access.
+| Repo | What it is |
+|------|------------|
+| [primefold-skills-public](https://github.com/PrimeFoldTools/primefold-skills-public) | Composable, open-source Claude skills: capture, triage, diagnose, gate, write. |
+| [trading-validation-framework](https://github.com/PrimeFoldTools/trading-validation-framework) | Strategy validation: out-of-sample splits, Monte Carlo, walk-forward, regime, friction, ablation. |
+| [pinescript-examples](https://github.com/PrimeFoldTools/pinescript-examples) | TradingView PineScript v5 patterns and educational indicators. |
 
----
-
-Built by [Collin Nerdahl](https://primefold.tools)
+More in private repos: production trading systems, custom GPT configs, and the operating-system internals. Reach me at [primefold.tools](https://primefold.tools).
