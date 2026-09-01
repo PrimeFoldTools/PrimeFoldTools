@@ -12,6 +12,7 @@ The throughline: the machine doesn't get the benefit of the doubt. It proves it,
 
 | Repo | What it is |
 |------|------------|
+| [verification-discipline](https://github.com/PrimeFoldTools/verification-discipline) | AI verification: a runnable mutation-tested gate, a case study, and a mistakes log with the tests that catch them. |
 | [primefold-skills-public](https://github.com/PrimeFoldTools/primefold-skills-public) | Composable, open-source Claude skills: capture, triage, diagnose, gate, write. |
 | [trading-validation-framework](https://github.com/PrimeFoldTools/trading-validation-framework) | Strategy validation: out-of-sample splits, Monte Carlo, walk-forward, regime, friction, ablation. |
 | [pinescript-examples](https://github.com/PrimeFoldTools/pinescript-examples) | TradingView PineScript v5 patterns and educational indicators. |
