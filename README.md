@@ -12,9 +12,12 @@ The throughline: the machine doesn't get the benefit of the doubt. It proves it,
 
 | Repo | What it is |
 |------|------------|
+| [andon](https://github.com/PrimeFoldTools/andon) | Stop fixing the same AI mistake twice — a Lean quality system for AI-assisted work: every defect becomes a permanent countermeasure. |
 | [verification-discipline](https://github.com/PrimeFoldTools/verification-discipline) | AI verification: a runnable mutation-tested gate, a case study, and a mistakes log with the tests that catch them. |
 | [primefold-skills-public](https://github.com/PrimeFoldTools/primefold-skills-public) | Composable, open-source Claude skills: capture, triage, diagnose, gate, write. |
 | [trading-validation-framework](https://github.com/PrimeFoldTools/trading-validation-framework) | Strategy validation: out-of-sample splits, Monte Carlo, walk-forward, regime, friction, ablation. |
 | [pinescript-examples](https://github.com/PrimeFoldTools/pinescript-examples) | TradingView PineScript v5 patterns and educational indicators. |
 
 More in private repos: production trading systems, custom GPT configs, and the operating-system internals. Reach me at [primefold.tools](https://primefold.tools).
+
+Open to agent-reliability and AI-evals roles, and consulting — [collinnerdahl@gmail.com](mailto:collinnerdahl@gmail.com).
