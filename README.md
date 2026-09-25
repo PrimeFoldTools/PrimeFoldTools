@@ -18,6 +18,12 @@ The throughline: the machine doesn't get the benefit of the doubt. It proves it,
 | [trading-validation-framework](https://github.com/PrimeFoldTools/trading-validation-framework) | Strategy validation: out-of-sample splits, Monte Carlo, walk-forward, regime, friction, ablation. |
 | [pinescript-examples](https://github.com/PrimeFoldTools/pinescript-examples) | TradingView PineScript v5 patterns and educational indicators. |
 
+## Upstream contributions
+
+| Project | Contribution |
+|---------|--------------|
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | [#43196](https://github.com/BerriAI/litellm/pull/43196) — fixed doubled reasoning text in Anthropic streaming: independent reproduction on `main`, a regression test, and cross-provider verification (Anthropic + Bedrock). |
+
 More in private repos: production trading systems, custom GPT configs, and the operating-system internals. Reach me at [primefold.tools](https://primefold.tools).
 
 Open to agent-reliability and AI-evals roles, and consulting — [collinnerdahl@gmail.com](mailto:collinnerdahl@gmail.com).
